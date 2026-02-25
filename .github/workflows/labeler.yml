@@ -2,7 +2,7 @@
 name: 🤖 Pull Request Labeler
 
 on:
-  - pull_request_target
+  - pull_request_target # zizmor: ignore[dangerous-triggers]
 
 permissions:
   contents: read
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Pull Request Labeler
-        uses: actions/labeler@v6
+        uses: actions/labeler@634933edcd8ababfe52f92936142cc22ac488b1b
         with:
           repo-token: '${{ secrets.GITHUB_TOKEN }}'
           configuration-path: '.github/labeler.yml'
