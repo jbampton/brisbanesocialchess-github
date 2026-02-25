@@ -15,7 +15,7 @@ jobs:
       pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - name: Pull Request Labeler
+      - name: 📃 Pull Request Labeler
         uses: actions/labeler@634933edcd8ababfe52f92936142cc22ac488b1b
         with:
           repo-token: '${{ secrets.GITHUB_TOKEN }}'
