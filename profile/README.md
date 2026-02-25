@@ -91,10 +91,7 @@ Eligible titles include:
 
 ## 📋 Tasks to do after joining the Brisbane Social Chess GitHub Organization
 
-Please `Star` some of our repositories ⭐ 💫 🌠 🌟
-
-You can set your membership in the Brisbane Social Chess GitHub Organization to `Public` on the
-[People](https://github.com/orgs/brisbanesocialchess/people) page when logged in.
+`Star` some of our repositories ⭐ 💫 🌠 🌟
 
 Please show your support for your new team 🏢 🧑🏽‍💻 💃 😎 🚀
 
