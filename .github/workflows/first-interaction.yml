@@ -3,7 +3,11 @@ name: 🥇 First Interaction
 
 on:
   pull_request:
-    types: [opened]
+    types:
+      - opened
+  issues:
+    types:
+      - opened
 
 permissions:
   issues: write
